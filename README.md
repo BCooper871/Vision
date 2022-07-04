@@ -1,2 +1,2 @@
 # Vision
-A selection of projects
+Freecodecamp.org OpenCV tutorial - Facial recognition model using Haar cascades.
